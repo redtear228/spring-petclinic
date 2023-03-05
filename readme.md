@@ -10,6 +10,9 @@ Petclinic is a [Spring Boot](https://spring.io/guides/gs/spring-boot) applicatio
 
 изменение во втором клоне 1 (branch1)
 изменение во втором клоне 2 (branch1)
+изменение во втором клоне 3 (branch1)
+
+asd
 
 ```
 git clone https://github.com/spring-projects/spring-petclinic.git
