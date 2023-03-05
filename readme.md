@@ -11,6 +11,7 @@ Petclinic is a [Spring Boot](https://spring.io/guides/gs/spring-boot) applicatio
 
 
 изменение 1 (branch2)
+изменение 2 (branch2)
 
 
 ```
